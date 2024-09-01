@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    // process bar
+    // process bar 
     setTimeout(function() {
         firstQuestion();
         $('.spinner').fadeOut();
